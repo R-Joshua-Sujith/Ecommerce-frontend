@@ -1,0 +1,24 @@
+.order-heading{
+    text-align: center;
+    font-weight: 500;
+}
+
+.orderContainer{
+    margin:0 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+
+}
+
+.order{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border:1px solid black;
+}

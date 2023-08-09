@@ -1,0 +1,21 @@
+.nav{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+.nav-item{
+    font-size: 20px;
+    border: none;
+    margin-bottom: 10px;
+    cursor: pointer;
+    color:black;
+    text-decoration: none;
+}
+
+.subnav{
+    display: flex;
+    gap:10px;
+}
